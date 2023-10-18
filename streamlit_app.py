@@ -5,8 +5,8 @@ import pandas as pd
 import streamlit as st
 
 """
-# My first app
-Here's our first attempt at using data to create a table:
+# 
+Come up with some text that descibes your App.
 """
 
 st.title("Ethoca app")
