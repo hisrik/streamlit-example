@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Ethoca App *(update title)*
+# 🥷 Ninja Vision
 *(Come up with some text that descibes your App)*
 """
 
