@@ -9,6 +9,5 @@ import streamlit as st
 *(Come up with some text that descibes your App)*
 """
 
-st.title("Ethoca app")
 st.text_input('input your prompt here')
 # st.write(response)
