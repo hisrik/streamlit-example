@@ -5,8 +5,8 @@ import pandas as pd
 import streamlit as st
 
 """
-# 
-Come up with some text that descibes your App.
+# Ethoca App *(update title)*
+*(Come up with some text that descibes your App)*
 """
 
 st.title("Ethoca app")
